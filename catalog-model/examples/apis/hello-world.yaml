@@ -7,5 +7,5 @@ spec:
   type: grpc
   lifecycle: deprecated
   owner: team-c
-  definition: 
+  definition:
     $text: https://petstore.swagger.io/v2/swagger.json
